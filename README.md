@@ -1,4 +1,7 @@
 # cerntech
+...
+Cerntech Tolling Management System is an advanced, scalable, and user-friendly platform designed to simplify and automate toll management operations. This software ensures seamless toll collection, vehicle tracking, and data management while providing robust features for administrators, operators, and users.
+...
 
 ## Project setup
 ```
