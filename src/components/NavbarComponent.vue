@@ -88,7 +88,7 @@ export default {
       <a href="/" class="navli">
         Dashboard
       </a>
-      <a href="/about" class="navli">
+      <a href="/tollbooth" class="navli">
         Toll booth
       </a>
       <a href="/services" class="navli">
